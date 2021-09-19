@@ -1,0 +1,66 @@
+body {
+	text-align: center;
+	background-color: #60a09d;
+}
+
+h1 {
+	font-size: 5rem;
+	color: #DBEDF3;
+	font-family: cursive;
+	text-shadow: 3px 0 #da0493;
+}
+
+.A {
+	background-image: url("images/w.png");
+}
+
+.S {
+	background-image: url("images/a.png");
+}
+
+.D {
+	background-image: url("images/s.png");
+}
+
+.F {
+	background-image: url("images/d.png");
+}
+
+.G {
+	background-image: url("images/j.png");
+}
+
+.H {
+	background-image: url("images/k.png");
+}
+
+.J {
+	background-image: url("images/l.png");
+}
+
+.all {
+	margin: 10% auto;
+}
+
+.animation {
+	box-shadow: 0 3px 4px 0 #ebdbf3;
+	opacity: 0.5;
+}
+
+.button {
+	outline: none;
+	border: 10px solid #694040;
+	font-size: 5rem;
+	font-family: 'Arvo', cursive;
+	line-height: 2;
+	font-weight: 900;
+	color: #6a7677;
+	text-shadow: 3px 0 #f1f3db;
+	border-radius: 15px;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	margin: 10px;
+	background-color: rgb(255, 255, 255);
+}
